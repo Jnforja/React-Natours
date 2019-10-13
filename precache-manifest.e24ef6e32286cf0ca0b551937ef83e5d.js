@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec5c70bdae6768675eba72bf6821fdae",
+    "revision": "34b2e3892f93d4ee2e64ed4984f39e6c",
     "url": "/React-Natours/index.html"
   },
   {
-    "revision": "35ea9c89a55b2d6e12b9",
-    "url": "/React-Natours/static/css/main.b1d5a71a.chunk.css"
+    "revision": "60808727694145e5c0e0",
+    "url": "/React-Natours/static/css/main.df4ffc53.chunk.css"
   },
   {
     "revision": "a7669861b1e97c7b129b",
     "url": "/React-Natours/static/js/2.36d3cb18.chunk.js"
   },
   {
-    "revision": "35ea9c89a55b2d6e12b9",
+    "revision": "60808727694145e5c0e0",
     "url": "/React-Natours/static/js/main.1ee0fcae.chunk.js"
   },
   {
