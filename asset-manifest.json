@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Natours/static/css/main.b6657225.chunk.css",
-    "main.js": "/React-Natours/static/js/main.1ee0fcae.chunk.js",
-    "main.js.map": "/React-Natours/static/js/main.1ee0fcae.chunk.js.map",
+    "main.css": "/React-Natours/static/css/main.86310981.chunk.css",
+    "main.js": "/React-Natours/static/js/main.89818de1.chunk.js",
+    "main.js.map": "/React-Natours/static/js/main.89818de1.chunk.js.map",
     "runtime-main.js": "/React-Natours/static/js/runtime-main.1d24b638.js",
     "runtime-main.js.map": "/React-Natours/static/js/runtime-main.1d24b638.js.map",
     "static/js/2.36d3cb18.chunk.js": "/React-Natours/static/js/2.36d3cb18.chunk.js",
     "static/js/2.36d3cb18.chunk.js.map": "/React-Natours/static/js/2.36d3cb18.chunk.js.map",
     "index.html": "/React-Natours/index.html",
-    "precache-manifest.3aa826ebde196b0a423d7f3c294cf6fb.js": "/React-Natours/precache-manifest.3aa826ebde196b0a423d7f3c294cf6fb.js",
+    "precache-manifest.90b22a18cfc5e0e36f88af99c8b361d4.js": "/React-Natours/precache-manifest.90b22a18cfc5e0e36f88af99c8b361d4.js",
     "service-worker.js": "/React-Natours/service-worker.js",
-    "static/css/main.b6657225.chunk.css.map": "/React-Natours/static/css/main.b6657225.chunk.css.map",
+    "static/css/main.86310981.chunk.css.map": "/React-Natours/static/css/main.86310981.chunk.css.map",
     "static/media/App.scss": "/React-Natours/static/media/nat-7.5f846d16.jpg",
     "static/media/icon-font.css": "/React-Natours/static/media/linea-basic-10.e6763f00.ttf",
     "static/media/logo-green-2x.png": "/React-Natours/static/media/logo-green-2x.3365abba.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.1d24b638.js",
     "static/js/2.36d3cb18.chunk.js",
-    "static/css/main.b6657225.chunk.css",
-    "static/js/main.1ee0fcae.chunk.js"
+    "static/css/main.86310981.chunk.css",
+    "static/js/main.89818de1.chunk.js"
   ]
 }

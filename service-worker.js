@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Natours/precache-manifest.3aa826ebde196b0a423d7f3c294cf6fb.js"
+  "/React-Natours/precache-manifest.90b22a18cfc5e0e36f88af99c8b361d4.js"
 );
 
 self.addEventListener('message', (event) => {
