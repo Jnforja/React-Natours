@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71c706925add66e5301c09f53c1ebe0e",
+    "revision": "c04948decdd16a0ec7d1b18a3ad8a037",
     "url": "/React-Natours/index.html"
   },
   {
-    "revision": "66fad9336769805029ac",
-    "url": "/React-Natours/static/css/main.86310981.chunk.css"
+    "revision": "c65741bd754563e7eb3a",
+    "url": "/React-Natours/static/css/main.cce2ccd7.chunk.css"
   },
   {
-    "revision": "a7669861b1e97c7b129b",
-    "url": "/React-Natours/static/js/2.36d3cb18.chunk.js"
+    "revision": "0cc92c20a49a6904f04f",
+    "url": "/React-Natours/static/js/2.fcd6e6f2.chunk.js"
   },
   {
-    "revision": "66fad9336769805029ac",
-    "url": "/React-Natours/static/js/main.89818de1.chunk.js"
+    "revision": "c65741bd754563e7eb3a",
+    "url": "/React-Natours/static/js/main.247a7461.chunk.js"
   },
   {
     "revision": "405758de07cfe67a2ec2",
     "url": "/React-Natours/static/js/runtime-main.1d24b638.js"
+  },
+  {
+    "revision": "cd69d3552824dc8e99c3f2953de2735b",
+    "url": "/React-Natours/static/media/hero-small.cd69d355.jpg"
   },
   {
     "revision": "6e09f4102b0d64adc38d21bd9c89a9a7",
@@ -40,8 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Natours/static/media/linea-basic-10.e6763f00.ttf"
   },
   {
+    "revision": "4c42c11f1fc0203483c21f2d6eeb8896",
+    "url": "/React-Natours/static/media/logo-green-1x.4c42c11f.png"
+  },
+  {
     "revision": "3365abba6477c48e6be892cf6faa8f25",
     "url": "/React-Natours/static/media/logo-green-2x.3365abba.png"
+  },
+  {
+    "revision": "888043d544c9ed77285afbc360ffd27e",
+    "url": "/React-Natours/static/media/logo-green-small-2x.888043d5.png"
   },
   {
     "revision": "40d4ef82deebd0521e91006d961ead40",
@@ -52,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Natours/static/media/nat-1-large.7fdf2a88.jpg"
   },
   {
+    "revision": "d6c15bf0efcaf4c03c5cb0c9078cdd17",
+    "url": "/React-Natours/static/media/nat-1.d6c15bf0.jpg"
+  },
+  {
     "revision": "2797561ff2a3de15c850f2744b73b6d1",
     "url": "/React-Natours/static/media/nat-10.2797561f.jpg"
   },
@@ -60,8 +76,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Natours/static/media/nat-2-large.7a25f199.jpg"
   },
   {
+    "revision": "4d3783688636b59662283e19991a2912",
+    "url": "/React-Natours/static/media/nat-2.4d378368.jpg"
+  },
+  {
     "revision": "417d3d741a7a47b3d6ef0307228033a0",
     "url": "/React-Natours/static/media/nat-3-large.417d3d74.jpg"
+  },
+  {
+    "revision": "cc2b05433cbad0b369d131d02c0cac6a",
+    "url": "/React-Natours/static/media/nat-3.cc2b0543.jpg"
   },
   {
     "revision": "61bbf12ae90a30cd432d77087921a02f",
